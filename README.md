@@ -50,8 +50,8 @@ https://discord.gg/3wKTDFMwvN)
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your_username/KYS-Moderation-Bot.git](https://github.com/your_username/KYS-Moderation-Bot.git)
-    cd KYS-Moderation-Bot
+    git clone https://github.com/dearygt/discord-bot-automod
+    ls
     ```
 2.  **Create a Virtual Environment (Optional, but Recommended):**
     ```bash

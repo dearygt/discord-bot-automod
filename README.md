@@ -76,7 +76,7 @@ https://discord.gg/3wKTDFMwvN)
     In the root directory of your project, create a file named `.env` and add your keys:
     ```
     DISCORD_BOT_TOKEN=YOUR_DISCORD_BOT_TOKEN
-    API_URL_BASE=https://test-hub.kys.gay/api/moderate_words/analyze](https://test-hub.kys.gay/api/moderate_words/analyze
+    API_URL_BASE=https://test-hub.kys.gay/api/moderate_words/analyze
     API_KEY=YOUR_KYS_API_KEY
     ```
     * Replace `YOUR_DISCORD_BOT_TOKEN` with the Bot Token you copied from Discord.

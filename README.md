@@ -1,5 +1,5 @@
 # discord-bot-automod
-# 🤖 KYS Moderation Bot
+# 🤖 auto Moderation Bot
 
 An advanced moderation bot for Discord, powered by the KYS Moderation API! This bot helps you keep your server safe and free from unwanted content by detecting inappropriate words and phrases and applying moderation actions like timeouts.
 
@@ -24,16 +24,15 @@ Follow these steps to get your bot up and running.
 
 * Python 3.8 or higher
 * A Discord account and permissions to create a bot application.
-* An API Key from the KYS Moderation API.
-
-### 2. Obtaining Your KYS API Key
+* An API Key from the website.
+### 2. Obtaining Your  API Key
 
 For the bot to function, you need an API Key from the KYS Moderation API.
 
-1.  **Visit the Website:** Go to the official KYS Moderation API page: [https://test-hub.kys.gay/](https://test-hub.kys.gay/)
+1.  **Visit the Website:** Go to the official   API page: [https://test-hub.kys.gay/](https://test-hub.kys.gay/)
 2.  **Generate Your API Key:** Follow the instructions on the website to register and generate your API Key.
-3.  **Need Help?** If you encounter any difficulties, you can join the KYS Discord server for support: [ Discord Invite Link]( @⚓・Community 
-https://discord.gg/3wKTDFMwvN) (Replace `your-invite-link-here` with the actual KYS Discord invite link).
+3.  **Need Help?** If you encounter any difficulties, you can join the  Discord server for support: [ Discord Invite Link]( @⚓・Community 
+https://discord.gg/3wKTDFMwvN) 
 
 ### 3. Discord Bot Setup
 
